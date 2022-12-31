@@ -4,7 +4,7 @@
 ![test](https://github.com/aoi-daiguji/_mypkg/actions/workflows/test.yml/badge.svg)
 
 ## このソフトについて
-大宮司葵生という人間が0.5秒ごとに誕生日を迎え、255歳まで年を取るros2パッケージです。
+大宮司葵生という人間が0.5秒ごとに誕生日を迎え、255歳まで年を取るROS2パッケージです。
 
 ## 必要なソフトウェア
 * Python
