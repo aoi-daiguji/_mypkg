@@ -31,6 +31,13 @@
   * ros2 runでtalkerを実行。
   * 新しく端末を起動し、ros2 runでlistenerを実行。
 
+##参考
+* [Ryuichi Ueda](https://github.com/ryuichiueda)  
+このパッケージのコードに関して、上田隆一先生の[スライド](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)(CC-BY-SA 4.0 by Ryuichi Ueda)のものを、本人の許可を得て自身の著作としています。
+
+* [rikuhotakeda](https://github.com/rikuhotakeda)
+テストファイル作成時に、助言を頂きました。
+
 ## 権利表記
 * このソフトウェアパッケージは、3条項BSDライセンスの下、再配布及び使用が許可されます。
 * © 2022 Daiguji Aoi
