@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+# SPDX-FileCopyrightText: 2022 Daiguji Aoi
+# SPDX-License-Identifier; BSD-3-Clause
+
 import launch
 import launch.actions
 import launch.substitutions
